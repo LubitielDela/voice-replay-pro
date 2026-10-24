@@ -1,0 +1,10 @@
+# Voice Replay PRO | Author / Автор: LubitielDela
+# Записи (чужие голоса!) и личные настройки не публикуем
+clips/
+config.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
