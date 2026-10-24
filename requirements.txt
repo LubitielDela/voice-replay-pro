@@ -1,0 +1,5 @@
+# Voice Replay PRO | Author / Автор: LubitielDela (https://github.com/LubitielDela)
+soundcard
+numpy
+soundfile
+keyboard
